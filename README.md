@@ -1,6 +1,6 @@
 # Python-for-data-analysis-and-visualization
 
-## Course sample projects done in Python 3.
+## Course sample projects .
 
 
 ***Learning Python for Data Analysis and Visualization*** is a great Udemy course that has a lot more than the title implies. Besides reviewing the key concepts and libraries to do data analysis, it also has a few great notebook projects that guide you through doing projects on different datasets.
